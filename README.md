@@ -49,7 +49,7 @@
 
 ## Professional Experience
 
-### Web Developer | gmhouse.com
+### Web Developer | gmhouse.vn
 **March 2025 - April 2025**
 - **Project:** Company website for uploading departments and news
 - **Team Size:** 3 members
