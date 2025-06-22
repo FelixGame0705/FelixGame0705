@@ -80,8 +80,21 @@
 - Passionate about game development with multiple educational and game jam projects
 - **Notable Projects:**
   - Four in a Row
-  - The Way Home (YouTube)
-  - Muzik Aron Adventure
+  - The Way Home
+  - Muzik
+  - Aron Adventure
+
+#### Team Lead | Enchantia
+**October 2023 - December 2023**
+- **Position:** Team Lead
+- **Team Size:** 5 members
+- **Project Description:** Rouge-like game set in a magical world where players control characters to defeat enemies and bosses. Players earn gold from defeating monsters to buy weapons and items that enhance character stats in the wave shop.
+- **Responsibilities:**
+  - Come up with project ideas
+  - Project development planning: design plan, game design document writing plan, functional diagram
+  - Setup code, CH-Play, Firebase
+  - Manage sprint with Clickup
+  - Core member solutions and code gameplay, UI
 
 ---
 
