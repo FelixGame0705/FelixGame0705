@@ -16,7 +16,6 @@
 **Short-term Goal:** Aspiring Web/Game developer with a strong passion for creating immersive and engaging web/game experiences.
 
 **Long-term Goal:** Ambitious future Web/Game project manager, aiming to lead innovative projects and teams in the web/game industry.
-<img width="880" height="192" alt="image" src="https://github.com/user-attachments/assets/296fba08-329a-4796-8cdf-23198badae63" />
 
 ---
 
