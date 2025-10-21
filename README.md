@@ -29,7 +29,7 @@
 - **Game Development:** Unity, Photon, Playfab, Firebase, CH Play console
 - **Web Development:** NestJs, ReactJs, NodeJs, ASP.NET
 - **Desktop/Mobile:** Winform, AndroidStudio
-- **DevOps:** Docker, Ubuntu
+- **DevOps:** Docker, Ubuntu, K8S
 
 ### Database Management Systems
 - MySQL
