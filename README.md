@@ -22,7 +22,7 @@
 ## Technical Skills
 
 ### Programming Languages
-- **Primary:** C#, Java, JavaScript, TypeScript, C++
+- **Primary:** C#, Java, JavaScript, TypeScript, C++, Python, Go...
 - **Web:** CSS, HTML5
 
 ### Frameworks & Platforms
@@ -30,10 +30,12 @@
 - **Web Development:** NestJs, ReactJs, NodeJs, ASP.NET
 - **Desktop/Mobile:** Winform, AndroidStudio
 - **DevOps:** Docker, Ubuntu, K8S
+- **AI and Automation Workflow:** N8N, Langchain, Hugging Face, LM Studio
 
 ### Database Management Systems
 - MySQL
 - Microsoft SQL Server
+- PostgreSQL, MongoDB
 
 ### Version Control
 - Git
@@ -44,6 +46,7 @@
 - Design patterns
 - Basic design (logo, banner creation)
 - Basic advertising
+- ...
 
 ---
 
