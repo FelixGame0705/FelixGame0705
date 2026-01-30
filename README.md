@@ -59,7 +59,7 @@
 - Founded and operate **GONSTAR Technology**, a technology company focused on building web and software solutions using **AI agents** to optimize development workflows.
 - Designed and implemented an **AI-driven software production pipeline** to reduce development time, optimize costs, and maintain high-quality standards for clients of all sizes.
 - Actively involved in both **technical execution and business operations**, combining the roles of Founder, CEO, and Lead Engineer.
-- Developed and delivered web applications and internal systems using **ASP.NET, NestJS, React, Docker**, and cloud-based deployment workflows.
+- Developed and delivered web applications and internal systems using **ASP.NET, NestJS, React, NextJS, K8S, Docker**, and cloud-based deployment workflows.
 - Built and integrated **AI agent workflows** using tools such as **LangChain, n8n, Hugging Face, and local LLMs (LM Studio)** to automate tasks including:
   - Requirement analysis support
   - Code generation assistance
