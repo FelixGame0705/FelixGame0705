@@ -13,9 +13,9 @@
 
 ## About Me
 
-**Short-term Goal:** Aspiring Web/Game developer with a strong passion for creating immersive and engaging web/game experiences.
+**Short-term Goal:** Operating a technology company that leverages AI agents to optimize software and website development workflows, delivering high-quality solutions at optimized costs for businesses of all sizes.
 
-**Long-term Goal:** Ambitious future Web/Game project manager, aiming to lead innovative projects and teams in the web/game industry.
+**Long-term Goal:** Operating a technology company that leverages AI agents to optimize software and website development workflows, delivering high-quality solutions at optimized costs for businesses of all sizes.
 
 ---
 
