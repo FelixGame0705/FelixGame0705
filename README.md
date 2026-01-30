@@ -52,7 +52,7 @@
 
 ## Professional Experience
 
-## Founder / CEO / Developer / AI Agent Engineer | GONSTAR Technology
+## Founder / CEO / Developer / AI Agent Engineer | Gon Star Technology
 **2025 – Present**  
 🌐 Website: https://gonstar.vn
 
