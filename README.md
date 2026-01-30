@@ -1,5 +1,5 @@
 # Tran Minh Tien
-## Game Developer & Web Developer
+## Fullstack Developer
 
 📱 +84 979 969 406  
 📧 tientrangame0705@gmail.com  
