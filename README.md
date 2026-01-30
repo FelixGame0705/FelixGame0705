@@ -125,6 +125,10 @@
 - **English:** Professional working proficiency with communication skills
 - **English Certificate:** Obtained
 
+
+## Awards & Achievements
+- **First Prize – EXCAP 2025:** Won first prize with *Ottobit*, a blended learning platform integrating robotics and software education.
+- **Top 13 – Gameverse:** Recognized among top 13 projects at the GameHub pitching round for an original game concept.
 ---
 
 ## Hobbies & Interests
