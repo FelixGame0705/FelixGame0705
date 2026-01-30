@@ -98,6 +98,7 @@
   - Setup code, CH-Play, Firebase
   - Manage sprint with Clickup
   - Core member solutions and code gameplay, UI
+- **Award:** [Top 13 Gameverse](https://vnexpress.net/top-15-du-an-gamehub-tham-gia-vong-thuyet-trinh-4739247.html?fbclid=IwY2xjawPpBFBleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeZtkaATc_oZznBY1uTGq353kVqJ8L4UUVD-VQChDyYxncJOzVHr3AGEIET6A_aem_CxCtzB-9FZcWq_bPbGaUsg)
 
 ---
 
